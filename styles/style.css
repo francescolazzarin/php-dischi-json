@@ -1,0 +1,14 @@
+main{
+    height: calc(100vh - 114px);
+}
+main .card{
+    max-height: 250px;
+    background-color:rgb(17, 32, 48) ;
+
+}
+.col-4{
+    flex-basis: 30%;
+}
+main .card img{
+    align-self: center;
+}
